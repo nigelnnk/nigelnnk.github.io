@@ -10,7 +10,8 @@ address:
   region: Germany
   country: Germany 
 
-summary: I was a panellist discussing how artificial intelligence can be used in chemistry research. 
+summary: I was part of a panel with Nobel Laureates discussing how artificial intelligence can be used in chemistry research.
+
 abstract: Artificial intelligence can be a force multiplier to mine existing data for insights not apparent when looked at in small sample sizes. Chemists should not be worried as their domain knowledge would still be needed to guide AI towards relevant findings and to validate their work.  
 
 # Talk start and end times.
