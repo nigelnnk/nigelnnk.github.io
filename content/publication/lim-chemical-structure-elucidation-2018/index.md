@@ -31,3 +31,5 @@ links:
 - name: URL
   url: http://arxiv.org/abs/1811.07886
 ---
+
+Accepted at NeurIPS 2018 Workshop: [Machine Learning for Molecules and Materials](http://www.quantum-machine.org/workshops/nips2018/)
