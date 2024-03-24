@@ -65,7 +65,7 @@ sections:
         - title: Member of Technical Staff
           company: DSO National Laboratories
           company_url: ''
-          company_logo: ''
+          company_logo: dso
           location: Singapore
           date_start: '2023-10-09'
           date_end: ''
@@ -77,11 +77,11 @@ sections:
         - title: Graduate Research Assistant
           company: Georgia Institute of Technology
           company_url: ''
-          company_logo: ''
+          company_logo: gatech
           location: Atlanta, Georgia, USA
           date_start: '2021-12-01'
           date_end: '2022-08-01'
-          description: Research on fairness of graph anomaly detection algorithms
+          description: Research on fairness of graph anomaly detection algorithms, as part of Prof [Srijan Kumar's CLAWS group](https://faculty.cc.gatech.edu/~srijan/)
     design:
       columns: '2'
   # - block: accomplishments
