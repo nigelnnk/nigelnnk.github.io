@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Data Scientist | AI4Science / Graphs
 
 # Organizations/Affiliations to show in About widget
 # organizations:
