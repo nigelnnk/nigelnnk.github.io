@@ -7,14 +7,15 @@ event_url: https://www.lindau-nobel.org/71st-lindau-nobel-laureate-meeting-2022/
 location: Inselhalle Lindau
 address:
   city: Lindau, Bavaria
-  country: Germany
+  region: Germany
+  country: Germany 
 
 summary: I was a panellist discussing how artificial intelligence can be used in chemistry research. 
 abstract: Artificial intelligence can be a force multiplier to mine existing data for insights not apparent when looked at in small sample sizes. Chemists should not be worried as their domain knowledge would still be needed to guide AI towards relevant findings and to validate their work.  
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-28'
+date: '2022-06-28T15:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -69,6 +70,6 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
 
-__Corresponding writeup of panel can be found [here](https://www.lindau-nobel.org/blog-artificial-intelligence-meets-real-problems/)__
+_Corresponding writeup of panel can be found [here](https://www.lindau-nobel.org/blog-artificial-intelligence-meets-real-problems/)._
 
 The 71st Lindau Nobel Laureate Conference hosted a panel discussing how artificial intelligence can be used in chemistry research. Two Nobel Laureates, Michael Levitt and Arieh Warschel (who jointly shared the 2013 Nobel Laureate Prize for Chemistry on developing multi-scale models in Chemistry) and two young scientists, Paulina Paiz and myself, shared our views on the state of AI research and recent developments in AI that can be applied in chemistry.  

@@ -25,7 +25,7 @@ role: Data Scientist | AI4Science / Graphs
 #     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep graph learning and its applications, including AI4Science.
+bio: My research interests include deep graph learning and its applications, including AI4Science research and anomaly detection.
 
 # Interests to show in About widget
 interests:
