@@ -73,3 +73,5 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 _Corresponding writeup of panel can be found [here](https://www.lindau-nobel.org/blog-artificial-intelligence-meets-real-problems/)._
 
 The 71st Lindau Nobel Laureate Conference hosted a panel discussing how artificial intelligence can be used in chemistry research. Two Nobel Laureates, Michael Levitt and Arieh Warschel (who jointly shared the 2013 Nobel Laureate Prize for Chemistry on developing multi-scale models in Chemistry) and two young scientists, Paulina Paiz and myself, shared our views on the state of AI research and recent developments in AI that can be applied in chemistry.  
+
+![](https://live.staticflickr.com/65535/52181493699_6dc922ad6f_4k.jpg)
