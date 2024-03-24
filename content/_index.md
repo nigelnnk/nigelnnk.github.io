@@ -79,9 +79,9 @@ sections:
           company_url: ''
           company_logo: gatech
           location: Atlanta, Georgia, USA
-          date_start: '2021-12-01
+          date_start: '2021-12-01'
           date_end: '2022-08-01'
-          description: Researched on fairness of graph anomaly detection algorithms
+          description: Research on fairness of graph anomaly detection algorithms
     design:
       columns: '2'
   # - block: accomplishments
