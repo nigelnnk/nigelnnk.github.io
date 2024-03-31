@@ -71,9 +71,9 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Structuring problems for exploitation by AI
-              * Led project on inverse design for materials processing
-              * Visualising and communicating insights to upper management
+              * Data Scientist in Materials Department - Structuring problems for exploitation by AI, and visualising and communicating insights to upper management
+              * Led project on inverse design for materials processing pairing crystal plasticity models with CcGANs
+              * Predicting stress fields from material microstructure with graph neural networks
         - title: Graduate Research Assistant
           company: Georgia Institute of Technology
           company_url: ''
