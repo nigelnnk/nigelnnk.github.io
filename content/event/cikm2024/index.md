@@ -12,7 +12,7 @@ address:
 
 summary: I gave an oral presentation for my first first-author work on fairness in graph anomaly detection algorithms.
 
-abstract: I gave an oral presentation for my first first-author work on fairness in graph anomaly detection algorithms.
+# abstract: I gave an oral presentation for my first first-author work on fairness in graph anomaly detection algorithms.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -30,7 +30,7 @@ tags: ['Graph Neural Networks']
 featured: true
 
 image:
-  caption: 'CIKM'24 together with my co-author Yeon-chang Lee'
+  caption: 'CIKM24 together with my co-author Yeon-chang Lee'
   focal_point: Right
 
 links:
