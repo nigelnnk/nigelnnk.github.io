@@ -20,4 +20,4 @@ links:
 url_code: 'https://github.com/nigelnnk/FairGAD'
 ---
 
-Slides are available [here](tinyurl.com/fairgadcikm). 
+Slides are available [here](https://tinyurl.com/fairgadcikm). 
