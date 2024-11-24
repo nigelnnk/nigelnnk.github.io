@@ -72,8 +72,8 @@ sections:
           description: |2-
               Responsibilities include:
               * Data Scientist in Materials Department - Structuring problems for exploitation by AI, and visualising and communicating insights to upper management
-              * Led project on inverse design for materials processing pairing crystal plasticity models with CcGANs
-              * Predicting stress fields from material microstructure with graph neural networks
+              * Led project on inverse design for materials processing via crystal plasticity models with CcGANs
+              * Conduct parameter studies and further analysis of experimental parameters with experimental team to optimise processing conditions, reducing time needed by ~55%. 
         - title: Graduate Research Assistant
           company: Georgia Institute of Technology
           company_url: ''

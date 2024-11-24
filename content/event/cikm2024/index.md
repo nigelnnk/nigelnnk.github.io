@@ -2,7 +2,7 @@
 title: CIKM'24
 
 event: 33rd ACM International Conference on Information and Knowledge Management
-event_url: https://dl.acm.org/doi/10.1145/3627673.3679754
+event_url: cikm2024.org
 
 location: Boise Centre
 address:
@@ -30,7 +30,7 @@ tags: ['Graph Neural Networks']
 featured: true
 
 image:
-  caption: 'My First Oral Presentation!'
+  caption: 'CIKM'24 together with my co-author Yeon-chang Lee'
   focal_point: Right
 
 links:
