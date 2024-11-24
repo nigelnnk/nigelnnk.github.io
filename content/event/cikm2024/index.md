@@ -12,7 +12,7 @@ address:
 
 summary: I gave an oral presentation for my first first-author work on fairness in graph anomaly detection algorithms.
 
-# abstract:   
+abstract: I gave an oral presentation for my first first-author work on fairness in graph anomaly detection algorithms.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
