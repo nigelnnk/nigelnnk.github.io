@@ -80,7 +80,7 @@ sections:
           location: Atlanta, Georgia, USA
           date_start: '2022-12-01'
           date_end: '2023-08-01'
-          description: Research on fairness of graph anomaly detection algorithms, as part of Prof [Srijan Kumar's CLAWS group](https://faculty.cc.gatech.edu/~srijan/). Published a first-author paper (see [CIKM'24](https://nigelnnk.github.io/talk/cikm24/).
+          description: Research on fairness of graph anomaly detection algorithms, as part of Prof [Srijan Kumar's CLAWS group](https://faculty.cc.gatech.edu/~srijan/). Published a first-author paper (see [CIKM'24](https://nigelnnk.github.io/talk/cikm24/)).
     design:
       columns: '2'
   # - block: accomplishments
