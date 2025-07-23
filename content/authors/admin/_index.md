@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Hey! I'm currently a data scientist working on AI4Science applications. My research interests include deep graph learning and its applications, including graph anomaly detection, fairness and explainability of graph neural networks, as well as geometric graph neural networks for applications in scientific domains. 
+Hey! I'm currently a data scientist working on Graphs / AI4Science applications. My research interests include deep graph learning and its applications, including graph anomaly detection, as well as geometric graph neural networks for applications in scientific domains. I previously worked on fairness in graph anomaly detection in the social media domain. 
 {style="text-align: justify;"}

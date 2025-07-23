@@ -70,8 +70,7 @@ sections:
           date_start: '2023-10-09'
           date_end: ''
           description: |2-
-              Responsibilities include:
-              * Data Scientist in Materials Department - Structuring problems for exploitation by AI, and visualising and communicating insights to upper management
+              * Data Scientist in Information Department - Exploiting data in the scientific and social media domains
               * Led project on inverse design for materials processing via crystal plasticity models with CcGANs
               * Conduct parameter studies and further analysis of experimental parameters with experimental team to optimise processing conditions, reducing time needed by ~55%. 
         - title: Graduate Research Assistant
@@ -79,9 +78,9 @@ sections:
           company_url: ''
           company_logo: gatech
           location: Atlanta, Georgia, USA
-          date_start: '2021-12-01'
-          date_end: '2022-08-01'
-          description: Research on fairness of graph anomaly detection algorithms, as part of Prof [Srijan Kumar's CLAWS group](https://faculty.cc.gatech.edu/~srijan/)
+          date_start: '2022-12-01'
+          date_end: '2023-08-01'
+          description: Research on fairness of graph anomaly detection algorithms, as part of Prof [Srijan Kumar's CLAWS group](https://faculty.cc.gatech.edu/~srijan/). Published a first-author paper (see [CIKM'24](https://nigelnnk.github.io/talk/cikm24/).
     design:
       columns: '2'
   # - block: accomplishments
